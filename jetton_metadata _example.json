@@ -1,0 +1,7 @@
+{
+    "name": "Pepe Ton",
+    "description": "Sample token on TON for testing purpose",
+    "symbol": "PEPETON",
+    "decimals": 9,
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
+ }
